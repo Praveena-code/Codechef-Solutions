@@ -7,6 +7,4 @@ This repository contains clean, structured solutions to problems from CodeChef, 
 
 🌱 Who it’s for: Beginners, curious coders, those who love clear logic
 
-🧠 How you explain: Step-by-step breakdowns with alternate solutions sometimes
-
 📬 How to contribute: Welcoming pull requests, issues, or feedback!
