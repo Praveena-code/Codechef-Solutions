@@ -1,7 +1,7 @@
 # Codechef-Solutions
 This repository contains clean, structured solutions to problems from CodeChef, written primarily in Java. Each file focuses on readability and efficiency, making it easy for other coders to follow and learn from.
 
-🔥 What this repo is about: Learning together through CodeChef solutions
+🔥 What this repo is about: Learning together through CodeChef solutions (500 - 1000 Difficulty Problem Solutions)
 
 💻 Languages used: Java, maybe Python later?
 
